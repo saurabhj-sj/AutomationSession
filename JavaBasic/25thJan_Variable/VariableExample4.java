@@ -1,0 +1,26 @@
+class VariableExample4 
+{
+	public static void main(String[] args) 
+	{
+        System.out.println("Program Starts");
+		byte byteVariable;
+		short shortVariable;
+		int intVariable;
+		long longVariable;
+		float floatVariable;
+		double doubleVariable;
+		boolean booleanVariable;
+		char charVariable;
+		byteVariable= 5;
+		shortVariable=15;
+		intVariable=20;
+		longVariable=30;
+		floatVariable=20.56f;
+		doubleVariable=10.54;
+		booleanVariable=true;
+		charVariable= 'A';
+		System.out.println("char=" +charVariable);
+		System.out.println("Program Ends");
+
+	}
+}
